@@ -1,1 +1,1 @@
-# p2htmlandcss.github.io
+# Project 2. Lifestyle
